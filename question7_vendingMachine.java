@@ -19,7 +19,7 @@ public class question7_vendingMachine {
 	    System.out.println("Your change is " +  quarters + " quarters, " + dimes + " dimes, and " + nickles + " nickles");  
 
 	    
-	    /* Note: We can code the same work with this code too
+	    /* Note: We can do the same work with this code too
 		int price=95;
 		int quarters=0;
 		int dimes=0;
